@@ -1,14 +1,5 @@
 # Myanmar Websites
 
-List of Websites
-
--  [Hluttaw Sites](#Hluttaw)
--  [Region & State Government](#Gov)
--  [Government Organizations](#GovOrg)
--  [Ministries](#Ministries)
--  [Others](#Others)
--  [NonGovernment Sites](#NonGov)
-
 ---
 
 ## Hluttaws
