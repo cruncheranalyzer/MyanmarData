@@ -92,8 +92,31 @@
 - [ကျေးလက်ဒေသဖွံ့ဖြိုးတိုးတက်ရေး ဦးစီးဌာန](http://www.drdmyanmar.org)
 - [မြန်မာဥပဒေသတင်းအချက်အလက်စနစ်](https://www.mlis.gov.mm)
 - [Myamar Statistical Information Service](http://www.mmsis.gov.mm)
+- [Yangon City Development Committee](https://www.ycdc.gov.mm)
+- [Directorate of Investment and Company Administration](https://www.dica.gov.mm)
+- [အဂတိလိုက်စားမှု တိုက်ဖျက်ရေးကော်မရှင်](http://www.accm.gov.mm/acc/index.php)
+- [ပြည်ထောင်စုရာထူးဝန်အဖွဲ့](http://www.ucsb.gov.mm)
+- [Food and Drug Administration](http://www.fdamyanmar.gov.mm)
+
+## Education
+- [မြန်မာနိုင်ငံ စာစစ်ဦးစီးဌာန](http://myanmarexam.org/)
+ - [၂၀၁၈ - တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း](http://2018.myanmarexam.org/)
+ - [၂၀၁၇ - တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း](http://2017.myanmarexam.org/)
+ - [၂၀၁၆ - တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း](http://2016.myanmarexam.org/)
+
 
 ## NonGov
 
 - [Open Myanmar Initiative](http://omimyanmar.org)
 - [Institute For Strategy And Policy](http://www.ispmyanmar.com)
+- [Open Development Myanmar](https://opendevelopmentmyanmar.net)
+- [The Myanmar Information Management Unit](http://themimu.info)
+- [Enlightened Myanmar Research Foundation](https://emref.org/en)
+- [Renaissance Institute](https://rimyanmar.org/en)
+
+
+## Newspaper
+- [The Global New Light of Myanmar](http://www.moi.gov.mm/npe/nlm/)
+- [Myanma Alinn Daily](http://www.moi.gov.mm/npe/mal/)
+- [The Mirror Daily](http://www.moi.gov.mm/npe/km/)
+
