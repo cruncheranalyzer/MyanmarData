@@ -100,6 +100,7 @@
 - [Food and Drug Administration](http://www.fdamyanmar.gov.mm)
 - [ကုန်းလမ်းပို့ဆောင်ရေးညွှန်ကြားမှုဦးစီးဌာန](https://rtad.gov.mm)
 - [Internal Revenue Department](http://www.irdmyanmar.gov.mm)
+- [Myanmar Seed Portal](http://www.myanmarseedportal.gov.mm)
 
 ## Education
 - [မြန်မာနိုင်ငံ စာစစ်ဦးစီးဌာန](http://myanmarexam.org/)
