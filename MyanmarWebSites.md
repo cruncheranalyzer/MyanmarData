@@ -98,7 +98,7 @@
 - [အဂတိလိုက်စားမှု တိုက်ဖျက်ရေးကော်မရှင်](http://www.accm.gov.mm/acc/index.php)
 - [ပြည်ထောင်စုရာထူးဝန်အဖွဲ့](http://www.ucsb.gov.mm)
 - [Food and Drug Administration](http://www.fdamyanmar.gov.mm)
-- [ကုန်းလမ်းပို့ဆောင်ရေးညွှန်ကြားမှုဦးစီးဌာန](https://rtad.gov.mm)
+- [ကုန်းလမ်းပို့ဆောင်ရေးညွှန်ကြားမှုဦးစီးဌာန](https://www.motc.gov.mm)
 - [Internal Revenue Department](http://www.irdmyanmar.gov.mm)
 - [Myanmar Seed Portal](http://www.myanmarseedportal.gov.mm)
 
