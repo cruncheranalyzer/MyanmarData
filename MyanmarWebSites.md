@@ -64,7 +64,7 @@
 - [Ministry of Commerce](https://www.commerce.gov.mm)
 - [Ministry of Education](http://www.moe.gov.mm)
 - [Ministry of Health & Sports](http://www.mohs.gov.mm)
-- [Ministry of Planning & Finance]
+- [Ministry of Planning & Finance] (https://www.mopf.gov.mm)
 - [Ministry of Construction](http://www.construction.gov.mm)
 - [Ministry of Social Welfare, Relief & Resettlement](http://www.mswrr.gov.mm)
 - [Ministry of Hotel & Tourism](https://tourism.gov.mm/my_MM/)
