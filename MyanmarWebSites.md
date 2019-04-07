@@ -93,7 +93,6 @@
 - [ကျေးလက်ဒေသဖွံ့ဖြိုးတိုးတက်ရေး ဦးစီးဌာန](http://www.drdmyanmar.org)
 - [မြန်မာဥပဒေသတင်းအချက်အလက်စနစ်](https://www.mlis.gov.mm)
 - [Myamar Statistical Information Service](http://www.mmsis.gov.mm)
-- [Yangon City Development Committee](https://www.ycdc.gov.mm)
 - [Directorate of Investment and Company Administration](https://www.dica.gov.mm)
 - [အဂတိလိုက်စားမှု တိုက်ဖျက်ရေးကော်မရှင်](http://www.accm.gov.mm/acc/index.php)
 - [ပြည်ထောင်စုရာထူးဝန်အဖွဲ့](http://www.ucsb.gov.mm)
@@ -126,3 +125,6 @@
 - [Myanma Alinn Daily](http://www.moi.gov.mm/npe/mal/)
 - [The Mirror Daily](http://www.moi.gov.mm/npe/km/)
 
+## Yangon Government
+- [ရန်ကုန်တိုင်းဒေသကြီးအစိုးရအဖွဲ့ တင်ဒါစိစစ်ကြီးကြပ်ရေးအဖွဲ့](http://tenders.yangon.gov.mm/index.html)
+- [Yangon City Development Committee](https://www.ycdc.gov.mm
