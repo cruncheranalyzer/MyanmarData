@@ -127,4 +127,4 @@
 
 ## Yangon Government
 - [ရန်ကုန်တိုင်းဒေသကြီးအစိုးရအဖွဲ့ တင်ဒါစိစစ်ကြီးကြပ်ရေးအဖွဲ့](http://tenders.yangon.gov.mm/index.html)
-- [Yangon City Development Committee](https://www.ycdc.gov.mm
+- [Yangon City Development Committee](https://www.ycdc.gov.mm)
