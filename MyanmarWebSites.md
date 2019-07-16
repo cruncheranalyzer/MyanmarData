@@ -29,7 +29,7 @@
 - [Yangon Region Government](http://www.yangon.gov.mm)
 - [Mandalay Region Government](http://www.mdyregion.gov.mm)
 - [Bago Region Government](http://bagoregion.gov.mm)
-- Sagaing Region Government (no url)
+- [Sagaing Region Government](http://www.sagaingregion.gov.mm)
 - [Tanintaryi Region Government](http://www.tniregion.gov.mm/division-gov)
 - [Magway Region Government](http://www.magwaygov.org)
 - [Ayeyarwaddy Region Government](http://www.ayeyarwadyregion.gov.mm)
@@ -128,3 +128,6 @@
 ## Yangon Government
 - [ရန်ကုန်တိုင်းဒေသကြီးအစိုးရအဖွဲ့ တင်ဒါစိစစ်ကြီးကြပ်ရေးအဖွဲ့](http://tenders.yangon.gov.mm/index.html)
 - [Yangon City Development Committee](https://www.ycdc.gov.mm)
+
+## Election
+- [ပြည်ထောင်စုရွေးကောက်ပွဲကော်မရှင်](https://www.uec.gov.mm)
