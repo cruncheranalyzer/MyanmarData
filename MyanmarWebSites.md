@@ -100,6 +100,7 @@
 - [ကုန်းလမ်းပို့ဆောင်ရေးညွှန်ကြားမှုဦးစီးဌာန](https://www.motc.gov.mm)
 - [Internal Revenue Department](http://www.irdmyanmar.gov.mm)
 - [Myanmar Seed Portal](http://www.myanmarseedportal.gov.mm)
+- [ပြည်ထောင်စုသမ္မတမြန်မာနိုင်ငံတော် အသေးစား၊အငယ်စား နှင့် အလတ်စား စီးပွားရေးလုပ်ငန်းများ ဖွံ့ဖြိုးတိုးတက်ရေးအေဂျင်စီ](http://www.myanmarsme.gov.mm/mm)
 
 ## Education
 - [မြန်မာနိုင်ငံ စာစစ်ဦးစီးဌာန](http://myanmarexam.org/)
