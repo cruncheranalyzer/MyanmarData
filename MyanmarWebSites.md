@@ -6,10 +6,10 @@
 - [Pyithu Hluttaw](https://www.pyithu.hluttaw.mm)
 - [Amyotha Hluttaw](http://www.amyotha.hluttaw.mm)
 - [Yangon Region Hluttaw](http://yangon.hluttaw.mm)
-- [Mandalay Region Hluttaw](http://www.mdyregionhluttaw.gov.mm) [notworking]
+- [Mandalay Region Hluttaw](http://mandalayregionhluttaw.gov.mm)
 - [Bago Region Hluttaw](http://bagoregionhluttaw.gov.mm)
 - [Sagaing Region Hluttaw](http://www.sagaingregionhluttaw.gov.mm)
-- [Magwa Parliament](http://www.magwaparliament.gov.mm) [notworking]
+- [Magwa Parliament](http://magwaparliament.gov.mm) [notworking]
 - [Ayeyarwaddy Parliament](http://www.ayeyarwaddyparliament.gov.mm) [Site under maintenance]
 - တနင်္လာရီတိုင်းဒေသကြီး [no url]
 
