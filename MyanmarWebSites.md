@@ -114,16 +114,19 @@
 
 
 ## NonGov
-
-- [Open Myanmar Initiative](http://omimyanmar.org)
 - [Institute For Strategy And Policy](http://www.ispmyanmar.com)
-- [Open Development Myanmar](https://opendevelopmentmyanmar.net)
-- [The Myanmar Information Management Unit](http://themimu.info)
 - [Enlightened Myanmar Research Foundation](https://emref.org/en)
 - [Renaissance Institute](https://rimyanmar.org/en)
 - [ပြည်ထောင်စုအဆင့်လွှတ်တော်တွင် တင်သွင်းဆွေးနွေးလျက်ရှိသည့် ဥပဒေကြမ်းများ၏ သတင်းအချက်အလက်များ](https://iamabill.org)
 - [Tracking international assistance to Myanmar](https://mohinga.info/en/)
 
+
+## Open Data
+- [Open Myanmar Initiative](http://omimyanmar.org)
+- [Open Development Myanmar](https://opendevelopmentmyanmar.net)
+- [The Myanmar Information Management Unit](http://themimu.info)
+- [အမျိုးသားအဆင့် နေရာဒေသဆိုင်ရာကုဒ် စနစ်](https://ncs-gad.github.io/ncs_mya/)
+- [National Coding System](https://ncs-gad.github.io/ncs_eng/)
 
 ## Newspaper
 - [The Global New Light of Myanmar](http://www.moi.gov.mm/npe/nlm/)
