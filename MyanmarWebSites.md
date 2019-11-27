@@ -139,3 +139,15 @@
 
 ## Election
 - [ပြည်ထောင်စုရွေးကောက်ပွဲကော်မရှင်](https://www.uec.gov.mm)
+
+
+## ဗုဒ္ဓစာပ​ေဆိုင်ရာ
+- [နိုင်ငံတော်ပရိယတ္တိသာသနာ့တက္ကသိုလ်](https://spsuygn.edu.mm)
+
+
+
+## ဗုဒ္ဓဆိုင်ရာစာအုပ်များ (3 Pitaka : Vinaya,Sutta,Abhidhamma and other books)
+- [ဗုဒ္ဓဆိုင်ရာစာအုပ်များ - နိုင်ငံတော်ပရိယတ္တိသာသနာ့တက္ကသိုလ်](https://spsuygn.edu.mm/book/reference)
+- [ဓမ္ဓ ကျမ်းစာများ - Dhammadownload](http://www.dhammadownload.com/eBook-Myanmar.htm)
+- [ဗုဒ္ဓဆိုင်ရာစာအုပ်- Dhammarnsi](https://www.dhammaransi.com/index.php/2018-08-10-06-05-53.html)
+
