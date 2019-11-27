@@ -55,7 +55,7 @@
 - Ministry of Office of the Union Government [no url]
 - [Ministry of Religious Affairs & Culture](http://www.mora.gov.mm)
 - [Ministry of Agriculture, Livestock and Irrigation](https://www.moali.gov.mm)
-- [Ministry of Transport and Communications](http://www.mcit.gov.mm) (not working) 
+- [Ministry of Transport and Communications](http://www.mcit.gov.mm) (not working)
 - [ပို့ဆောင်ရေးနှင့်ဆက်သွယ်ရေးဝန်ကြီးဌာန](https://www.motc.gov.mm)
 - [Ministry of Natural Resources & Environmental Conservation](http://www.monrec.gov.mm)
 - [Ministry of Electricity & Energy](http://www.moee.gov.mm)
@@ -141,7 +141,7 @@
 - [ပြည်ထောင်စုရွေးကောက်ပွဲကော်မရှင်](https://www.uec.gov.mm)
 
 
-## ဗုဒ္ဓစာပ​ေဆိုင်ရာ
+## ဗုဒ္ဓစာပေဆိုင်ရာ
 - [နိုင်ငံတော်ပရိယတ္တိသာသနာ့တက္ကသိုလ်](https://spsuygn.edu.mm)
 
 
@@ -150,4 +150,3 @@
 - [ဗုဒ္ဓဆိုင်ရာစာအုပ်များ - နိုင်ငံတော်ပရိယတ္တိသာသနာ့တက္ကသိုလ်](https://spsuygn.edu.mm/book/reference)
 - [ဓမ္ဓ ကျမ်းစာများ - Dhammadownload](http://www.dhammadownload.com/eBook-Myanmar.htm)
 - [ဗုဒ္ဓဆိုင်ရာစာအုပ်- Dhammarnsi](https://www.dhammaransi.com/index.php/2018-08-10-06-05-53.html)
-
