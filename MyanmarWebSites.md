@@ -148,5 +148,7 @@
 
 ## ဗုဒ္ဓဆိုင်ရာစာအုပ်များ (3 Pitaka : Vinaya,Sutta,Abhidhamma and other books)
 - [ဗုဒ္ဓဆိုင်ရာစာအုပ်များ - နိုင်ငံတော်ပရိယတ္တိသာသနာ့တက္ကသိုလ်](https://spsuygn.edu.mm/book/reference)
+- [ကမ္ဘာအေးဗုဒ္ဓ သုတေသနစာကြည့်တိုက်-Kabaaye Buddha Research Library](http://www.kbrl.gov.mm/Catalog/Featured)
 - [ဓမ္ဓ ကျမ်းစာများ - Dhammadownload](http://www.dhammadownload.com/eBook-Myanmar.htm)
 - [ဗုဒ္ဓဆိုင်ရာစာအုပ်- Dhammarnsi](https://www.dhammaransi.com/index.php/2018-08-10-06-05-53.html)
+- [ဓမ္မမော်ကွန်းတိုက်](http://www.dhammaarchive.com)
