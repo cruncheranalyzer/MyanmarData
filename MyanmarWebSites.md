@@ -98,7 +98,7 @@
 - [ပြည်ထောင်စုရာထူးဝန်အဖွဲ့](http://www.ucsb.gov.mm)
 - [Food and Drug Administration](http://www.fdamyanmar.gov.mm)
 - [ကုန်းလမ်းပို့ဆောင်ရေးညွှန်ကြားမှုဦးစီးဌာန](https://www.motc.gov.mm)
-- [Internal Revenue Department](http://www.irdmyanmar.gov.mm)
+- [ ပြည်တွင်းအခွန်များဦးစီးဌာန - Internal Revenue Department](http://www.ird.gov.mm)
 - [Myanmar Seed Portal](http://www.myanmarseedportal.gov.mm)
 - [ပြည်ထောင်စုသမ္မတမြန်မာနိုင်ငံတော် အသေးစား၊အငယ်စား နှင့် အလတ်စား စီးပွားရေးလုပ်ငန်းများ ဖွံ့ဖြိုးတိုးတက်ရေးအေဂျင်စီ](http://www.myanmarsme.gov.mm/mm)
 - [Yangon Region Young Entrepreneur Association](http://www.yryea.org.mm/demo/)
