@@ -102,6 +102,7 @@
 - [Myanmar Seed Portal](http://www.myanmarseedportal.gov.mm)
 - [ပြည်ထောင်စုသမ္မတမြန်မာနိုင်ငံတော် အသေးစား၊အငယ်စား နှင့် အလတ်စား စီးပွားရေးလုပ်ငန်းများ ဖွံ့ဖြိုးတိုးတက်ရေးအေဂျင်စီ](http://www.myanmarsme.gov.mm/mm)
 - [Yangon Region Young Entrepreneur Association](http://www.yryea.org.mm/demo/)
+- [မိုးလေဝသနှင့်ဇလဗေဒညွှန်ကြားမှုဦးစီးဌာန - Department of Meteorology and Hydrology](https://www.moezala.gov.mm)
 
 ## Education
 - [မြန်မာနိုင်ငံ စာစစ်ဦးစီးဌာန](http://myanmarexam.org/)
@@ -111,6 +112,7 @@
  - [၂၀၁၆ - တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း](http://2016.myanmarexam.org/)
 
  - [New Primary Curriculum Website](https://createmm.org/mm)
+   [အခြေခံပညာ သင်ရိုးသစ်](http://mdep.moe.edu.mm/dbebox/)
 
 
 ## NonGov
@@ -153,3 +155,4 @@
 - [ဗုဒ္ဓဆိုင်ရာစာအုပ်- Dhammarnsi](https://www.dhammaransi.com/index.php/2018-08-10-06-05-53.html)
 - [ဓမ္မမော်ကွန်းတိုက်](http://www.dhammaarchive.com)
 - [သစ္စာပါရမီ ဓမ္မမိသားစု (စင်ကာပူ)](https://www.thitsarparamisociety.com)
+- [မြန်မာသုတ္တန်](http://myanmarsutta.net)
