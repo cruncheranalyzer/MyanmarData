@@ -107,12 +107,12 @@
 ## Education
 - [မြန်မာနိုင်ငံ စာစစ်ဦးစီးဌာန](http://myanmarexam.org/)
 -  [၂၀၁၉ - တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း](http://2019.myanmarexam.org)
- - [၂၀၁၈ - တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း](http://2018.myanmarexam.org/)
- - [၂၀၁၇ - တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း](http://2017.myanmarexam.org/)
- - [၂၀၁၆ - တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း](http://2016.myanmarexam.org/)
+- [၂၀၁၈ - တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း](http://2018.myanmarexam.org/)
+- [၂၀၁၇ - တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း](http://2017.myanmarexam.org/)
+- [၂၀၁၆ - တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း](http://2016.myanmarexam.org/)
 
- - [New Primary Curriculum Website](https://createmm.org/mm)
-   [အခြေခံပညာ သင်ရိုးသစ်](http://mdep.moe.edu.mm/dbebox/)
+- [New Primary Curriculum Website](https://createmm.org/mm)
+- [အခြေခံပညာ သင်ရိုးသစ်](http://mdep.moe.edu.mm/dbebox/)
 
 
 ## NonGov
