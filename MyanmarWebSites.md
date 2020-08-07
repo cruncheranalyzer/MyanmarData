@@ -131,9 +131,9 @@
 - [National Coding System](https://ncs-gad.github.io/ncs_eng/)
 
 ## Newspaper
-- [The Global New Light of Myanmar](http://www.moi.gov.mm/npe/nlm/)
-- [Myanma Alinn Daily](http://www.moi.gov.mm/npe/mal/)
-- [The Mirror Daily](http://www.moi.gov.mm/npe/km/)
+- [The Global New Light of Myanmar](http://www.moi.gov.mm/nlm/)
+- [Myanma Alinn Daily](http://www.moi.gov.mm/mal/)
+- [The Mirror Daily](http://www.moi.gov.mm/km/)
 
 ## Yangon Government
 - [ရန်ကုန်တိုင်းဒေသကြီးအစိုးရအဖွဲ့ တင်ဒါစိစစ်ကြီးကြပ်ရေးအဖွဲ့](http://tenders.yangon.gov.mm/index.html)
