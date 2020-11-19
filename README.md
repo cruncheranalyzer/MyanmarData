@@ -1,5 +1,5 @@
 # MyanmarData
-  MyanmarData is a collection of urls from the Web. so enjoy the content.
+  MyanmarData is a collection of urls from the Web. Enjoy the content.
 
 
 ## Contents
