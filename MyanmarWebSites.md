@@ -158,3 +158,4 @@
 - [ဓမ္မမော်ကွန်းတိုက်](http://www.dhammaarchive.com)
 - [သစ္စာပါရမီ ဓမ္မမိသားစု (စင်ကာပူ)](https://www.thitsarparamisociety.com)
 - [မြန်မာသုတ္တန်](http://myanmarsutta.net)
+- [မဟာဓမ္မပါလ](http://www.mahadhammapala.org)
