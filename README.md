@@ -1,6 +1,6 @@
 # MyanmarData
-  MyanmarData is a collection of Myanmar Data from the Web.
 
+MyanmarData is a collection of Myanmar Data from the Web.
 
 ## Contents
 
