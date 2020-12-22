@@ -37,7 +37,7 @@
 - [Kachin State Government](http://www.kachinstate.gov.mm)
 - [Kayah State Government](http://www.kayahstate.gov.mm)
 - [Kayin State Government](http://www.kayinstate.gov.mm)
-- Chin State Government [no url]
+- [Chin State Government] (https://www.chinstate.gov.mm)
 - [Mon State Government](http://www.monstate.gov.mm)
 - Rakhine State Government [no url]
 - [Shan State Government](http://www.shanstate.gov.mm)
