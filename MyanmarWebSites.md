@@ -104,6 +104,9 @@
 - [Yangon Region Young Entrepreneur Association](http://www.yryea.org.mm/demo/)
 - [မိုးလေဝသနှင့်ဇလဗေဒညွှန်ကြားမှုဦးစီးဌာန - Department of Meteorology and Hydrology](https://www.moezala.gov.mm)
 
+## Industry Related
+-  [မြန်မာနိုင်ငံ လုပ်သားများ ကျွမ်းကျင်မှု "စံ" သတ်မှတ် ပြဋ္ဌာန်းရေး အဖွဲ့ - National Skills Standards Authority](https://www.nssa.gov.mm/)
+
 ## Education
 - [Ministry of Education](http://www.moe.gov.mm)
 - [မြန်မာနိုင်ငံ စာစစ်ဦးစီးဌာန](http://myanmarexam.org/)
