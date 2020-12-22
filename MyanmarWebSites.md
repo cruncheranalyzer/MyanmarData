@@ -9,17 +9,17 @@
 - [Mandalay Region Hluttaw](http://mandalayregionhluttaw.gov.mm)
 - [Bago Region Hluttaw](http://bagoregionhluttaw.gov.mm)
 - [Sagaing Region Hluttaw](http://www.sagaingregionhluttaw.gov.mm)
-- [Magwa Parliament](http://magwaparliament.gov.mm) [notworking]
-- [Ayeyarwaddy Parliament](http://www.ayeyarwaddyparliament.gov.mm) [Site under maintenance]
-- တနင်္လာရီတိုင်းဒေသကြီး [no url]
+- [Magway Parliament](https://magwayregion.hluttaw.mm) 
+- [Ayeyarwaddy Parliament](https://ayeyarwadyregion.hluttaw.mm)
+- [Taninthary Region Hluttaw](https://www.tanintharyiregion.hluttaw.mm/)[url is not working]
 
-- ကချင်ပြည်နယ် [no url]
-- ကယားပြည်နယ် [no url]
-- ကရင်ပြည်နယ် [no url]
+- [Kachin State Hluttaw](https://www.kachinstate.hluttaw.mm)
+- [Kayah State Hluttaw](https://kayahstate.hluttaw.mm/my/)
+- [Kayin State Hluttaw](https://kayinstate.hluttaw.mm/)
 - [Chin Parliament](http://www.chinparliament.gov.mm)
 - [Mon State Hluttaw](http://www.monhluttaw.com)
-- ရခိုင်ပြည်နယ် [no url]
-- ရှမ်းပြည်နယ် [no url]
+- [Rakhine State Hluttaw](https://www.rakhinestate.hluttaw.mm/)
+- [Shan State Hluttaw](http://www.shanstateparliament.gov.mm/)[url is not working]
 
 
 ## Gov
@@ -55,12 +55,12 @@
 - Ministry of Office of the Union Government [no url]
 - [Ministry of Religious Affairs & Culture](http://www.mora.gov.mm)
 - [Ministry of Agriculture, Livestock and Irrigation](https://www.moali.gov.mm)
-- [Ministry of Transport and Communications](http://www.mcit.gov.mm) (not working)
+- [Ministry of Transport and Communications](http://www.mcit.gov.mm) (url is not working)
 - [ပို့ဆောင်ရေးနှင့်ဆက်သွယ်ရေးဝန်ကြီးဌာန](https://www.motc.gov.mm)
 - [Ministry of Natural Resources & Environmental Conservation](http://www.monrec.gov.mm)
 - [Ministry of Electricity & Energy](http://www.moee.gov.mm)
 - [Ministry of Labouor, Immigration & Population](https://www.mol.gov.mm/mm/)
-- [Ministry of Industry](http://www.industry.gov.mm) (not working)
+- [Ministry of Industry](http://www.industry.gov.mm) (url is not working)
 - [Ministry of Commerce](https://www.commerce.gov.mm)
 - [Ministry of Education](http://www.moe.gov.mm)
 - [Ministry of Health & Sports](http://www.mohs.gov.mm)
