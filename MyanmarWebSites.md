@@ -110,6 +110,7 @@
 ## Education
 - [Ministry of Education](http://www.moe.gov.mm)
 - [မြန်မာနိုင်ငံ စာစစ်ဦးစီးဌာန](http://myanmarexam.org/)
+- [၂၀၂၂ - တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း](https://www.myanmarexam.org/index.html)
 - [၂၀၂၀ - တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း](https://2020.myanmarexam.org)
 -  [၂၀၁၉ - တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း](http://2019.myanmarexam.org)
 - [၂၀၁၈ - တက္ကသိုလ်ဝင် စာမေးပွဲအောင်စာရင်း](http://2018.myanmarexam.org/)
